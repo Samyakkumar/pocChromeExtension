@@ -1,0 +1,7 @@
+.hover-css-mousevisited {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.mouse-clicked-by-extension {
+    background-color: rgba(200, 200,100, 0.5);
+}
